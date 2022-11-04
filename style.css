@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.box-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 90%;
+    height: 150px;
+    margin: auto;
+    margin-top: 3em;
+    background-color: lightgrey;
+}
+
+.blue {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 270px;
+    height: 75px;
+    background: dodgerblue;
+    
+}
+
+.pink-one {
+    background: violet;
+    height: 50px;
+    width: 50px;
+    margin: 0 10px 0 10px;
+}
+
+.pink-two {
+    background: violet;
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.pink-three {
+    background: violet;
+    height: 50px;
+    width: 50px;
+    margin: 0 40px 0 40px;
+}
+
